@@ -50,3 +50,7 @@ WITHDRAWN - A proposal will be withdrawn if it's unable to progress beyond the *
 file:///home/adedamola/Downloads/Untitled(2).png![image](https://user-images.githubusercontent.com/66562380/212525668-d10072be-26a6-4009-bc32-86a2d4c3c7dd.png)
 
 The procedure for granting *urgent* proposals seeks to cut down as many steps as possible, here the proposal moves straight to the review stage, once submitted. The core members do the job here of evaluating and making quick decisions. If the proposal meets the two conditions of securing majority core member votes and the target stake required, it's is voted in for approval. Failure to meet these conditions leads to its withdrawal.
+
+
+## cONCLUSIONS
+In conclusion, the centralization problem within DAOs can be a solution in itself if utilized towards specific ends. The key is to know when and where to use it and limiting its influence within its sphere of required juridisction. Here, we have seen its utility as a channel for making fast and effective decisions. This ensures unneccessary time is never wasted while also ensuring key decisions are guided by those who have good knowledge and experience with the protocol.
